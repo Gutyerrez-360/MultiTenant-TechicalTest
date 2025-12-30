@@ -1,3 +1,5 @@
+<img width="1833" height="1009" alt="image" src="https://github.com/user-attachments/assets/ccda2673-15ea-4a97-856d-04ff6410c355" />
+
 # MultiTenant Technical Test API
 
 This project is a multi-tenant API for managing **invoices**, **bank transactions**, and reconciliation, implemented in **FastAPI** with **SQLAlchemy**, supporting integration with an LLM (mock AI) for reconciliation explanations.
